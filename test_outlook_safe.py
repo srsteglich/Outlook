@@ -23,7 +23,7 @@ def extract_email_from_ex(ex_address):
 
 def get_outlook_email_safe():
     """
-    Versão melhorada que converte endereço EX para SMTP
+    Converte endereço EX para SMTP
     """
     email = None
     
