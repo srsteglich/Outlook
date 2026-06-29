@@ -2,6 +2,7 @@
 Projeto de Acesso sem Senha no Outlook na maquina do Usuário 
 
 O projeto possui um módulo de autenticação automática para identificar o usuário sem a necessidade de informar login e senha.
+
 Obtém automaticamente o e-mail da conta configurada no Microsoft Outlook utilizando a biblioteca `pywin32`.
 
 **Vantagens**
