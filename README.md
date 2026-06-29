@@ -16,7 +16,7 @@ Obtém automaticamente o e-mail da conta configurada no Microsoft Outlook utiliz
 
 ___________________________________________________________________________________________________________________________________ 
 
-** com Python Puro
+** com Python
 
 <img width="1395" height="646" alt="image" src="https://github.com/user-attachments/assets/08b5a73f-b5c0-4725-ba6d-b213689fa93c" />
 
