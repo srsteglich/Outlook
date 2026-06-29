@@ -14,6 +14,10 @@ Obtém automaticamente o e-mail da conta configurada no Microsoft Outlook utiliz
 - Requer o Microsoft Outlook instalado e configurado.
 - Depende da disponibilidade da API COM do Windows (`pywin32`).
 
+___________________________________________________________________________________________________________________________________ 
+
+** com Python Puro
+
 <img width="1395" height="646" alt="image" src="https://github.com/user-attachments/assets/08b5a73f-b5c0-4725-ba6d-b213689fa93c" />
 
 ___________________________________________________________________________________________________________________________________ 
