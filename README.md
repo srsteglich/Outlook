@@ -15,3 +15,9 @@ Obtém automaticamente o e-mail da conta configurada no Microsoft Outlook utiliz
 - Depende da disponibilidade da API COM do Windows (`pywin32`).
 
 <img width="1395" height="646" alt="image" src="https://github.com/user-attachments/assets/08b5a73f-b5c0-4725-ba6d-b213689fa93c" />
+
+___________________________________________________________________________________________________________________________________ 
+
+** com Streamlit 
+
+<img width="1888" height="1044" alt="image" src="https://github.com/user-attachments/assets/bdc0872b-5b43-4f23-b1ff-d6ac08a07422" />
